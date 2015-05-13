@@ -1,0 +1,8 @@
+Assumes a unix system with:
+ - bash
+ - alsa
+
+Execute the main script from within it's own folder
+    ./sound_handler.sh
+
+Reads single letters fed externally to determine sound state.  See sound_handler.h for details

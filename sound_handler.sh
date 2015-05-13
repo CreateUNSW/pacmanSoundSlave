@@ -16,7 +16,7 @@ function soundLoop()
 			isChomping=0;
 			${playCommand} chomp.wav &
 		fi
-		sleep 0.4
+		sleep 0.35
 	done
 }
 
