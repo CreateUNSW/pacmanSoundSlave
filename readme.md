@@ -11,7 +11,7 @@ Reads single letters fed externally to determine sound state.  See sound_handler
 Serial comms pins are UART_RX and UART_TX, baud is 115200.  Don't forget to hook up a ground wire too.
 
 On Raspberry pi B+ (what we're using) this pinout diagram is valid when the board is rotated so that the GPIO pins are on the side opposite to you (top) and the HDMI is closer to you (bottom).
-![Raspberry pi B+ pinout](https://raw.github.com/createunsw/pacmanSoundSlave/master/model B pins.png)
+![Raspberry pi B+ pinout](https://raw.github.com/createunsw/pacmanSoundSlave/master/model_B_pins.png)
 
 Suggestible code:
 ```
